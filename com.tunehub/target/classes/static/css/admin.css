@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+ body{
+        min-height: 500;
+        display: flex;
+        text-align: center;
+        background-color: rgb(245, 242, 242);
+    }
+    .header{
+        
+        font-family: monospace;
+       font-size: 20px;
+        text-align: center;
+        border: 0.5px solid;
+        width: 100%;
+    }
+    .sidebar{
+        display: block;
+        border: 0.5px solid;
+        
+    }
